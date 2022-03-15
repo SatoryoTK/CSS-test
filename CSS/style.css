@@ -1,0 +1,62 @@
+.article{
+  margin-left:5%;
+}
+
+.article-title{
+  font-size:150%;
+  color:rgb(22, 22, 146);
+  font-weight: 600;
+}
+
+nav{
+  display:flex;
+  justify-content: flex-end;
+  color: rgb(22, 22, 146);
+}
+
+a{
+  text-decoration:none;
+}
+
+.mail{
+  margin-right: 5%;
+}
+
+.information{
+  margin:0 3%;
+}
+
+.content{
+  margin:0 3%;
+}
+
+.home{
+  margin-right:3%;
+}
+
+h3{
+  margin:250px 0 0 0;
+  font-size: 60px;
+  font-weight: lighter;
+}
+
+.navy-square{
+  background-color: rgb(22, 22, 146);
+  width:870px;
+  height:160px;
+  margin-top:0px;
+}
+
+.sample-picture{
+  position:relative;
+}
+
+img{
+  position:absolute;
+  top:-500px;
+  left:500px;
+}
+
+img{
+  width:600px;
+}
