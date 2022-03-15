@@ -8,7 +8,7 @@ header{
   color:rgb(22, 22, 146);
   font-weight: 600;
   margin-top: 1%;
-  margin-right: 58%;
+  margin-right:60%;
 }
 
 nav{
@@ -23,47 +23,43 @@ a{
 }
 
 .mail{
-  width:120px;
+  width:150%;
 }
 
 .information{
   margin:0 4%;
-  width:80px;
+  width:150%;
 }
 
 .contents{
-  margin:0 3%;
-  width:80px;
+  margin:0 4%;
+  width:150%;
 }
 
 .home{
-  margin-right:3%;
-  width:60px;
+  margin-right:4%;
+  width:100%;
 }
 
 h3{
-  margin:350px 0 0 0;
-  font-size: 60px;
+  margin:30% 0 0 0;
+  font-size: 400%;
   font-weight: lighter;
 }
 
 .navy-square{
   background-color: rgb(22, 22, 146);
-  width:960px;
-  height:160px;
-  margin-top:0px;
+  width:75%;
+  height:140px;
 }
 
-.sample-picture{
+.articlr{
   position:relative;
 }
 
 img{
   position:absolute;
-  top:-500px;
-  left:670px;
-}
-
-img{
-  width:600px;
+  top:20%;
+  left:49%;
+  width:50%;
 }
