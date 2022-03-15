@@ -7,8 +7,8 @@ header{
   font-size:150%;
   color:rgb(22, 22, 146);
   font-weight: 600;
-  margin-top: 1%;
-  margin-right:60%;
+  margin-top:1%;
+  margin-right:45%;
 }
 
 nav{
@@ -20,25 +20,7 @@ nav{
 
 a{
   text-decoration:none;
-}
-
-.mail{
-  width:150%;
-}
-
-.information{
-  margin:0 4%;
-  width:150%;
-}
-
-.contents{
-  margin:0 4%;
-  width:150%;
-}
-
-.home{
-  margin-right:4%;
-  width:100%;
+  margin-left: 40px;
 }
 
 h3{
@@ -60,6 +42,6 @@ h3{
 img{
   position:absolute;
   top:20%;
-  left:49%;
+  right:0;
   width:50%;
 }
